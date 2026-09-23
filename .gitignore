@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data and model artifacts
+data/
+input/
+outputs/
+submissions/
+models/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+*.cbm
+*.json.model
+*.npy
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
